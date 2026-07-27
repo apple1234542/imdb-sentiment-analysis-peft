@@ -450,10 +450,15 @@ P-Tuning
 基于 **DeBERTa-v3-base** 完成 IMDB 情感分类实验后，分别提交了 LoRA、Prefix 与 P-Tuning 三组预测结果。Kaggle 页面显示的提交分数如下。
 
 <p align="center">
-  <img src="./assets/kaggle_submission_scores.png" alt="DeBERTa-v3-base 不同参数高效微调方法的 Kaggle 提交分数" width="100%">
+  <img src="assets/kaggle_submission_scores.png"
+       alt="DeBERTa-v3-base 不同参数高效微调方法的 Kaggle 提交分数"
+       width="100%">
 </p>
 
-<p align="center"><em>图 1　DeBERTa-v3-base 不同参数高效微调方法的 Kaggle 提交结果</em></p>
+<p align="center">
+  <em>图 1　DeBERTa-v3-base 不同参数高效微调方法的 Kaggle 提交结果</em>
+</p>
+
 
 | 排名 | 方法 | Kaggle 分数 |
 |:---:|---|---:|
